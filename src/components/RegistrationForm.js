@@ -7,7 +7,7 @@ export class RegistrationForm extends Component {
       <form>
         <input type="text" />
         <input type="password" />
-        <button type="submit" />
+        <button type="submit">Submit</button>
       </form>
     )
   }
